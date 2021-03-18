@@ -1,7 +1,7 @@
 ## About me
 🔭 I’m currently working on my Final Degree Project.
 ## Organizations
-- University subjects: @lokeon-university
+- University subjects: https://github.com/lokeon-university
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=square&logo=linux&logoColor=green&color=111111)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=square&logo=visual-studio-code&logoColor=green&color=111111)
