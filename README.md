@@ -1,5 +1,5 @@
 ## About me
-🔭 I’m currently working on my Final Degree Project.
+🔭 Looking for something to do.
 ## Organizations
 - MuchoBien: https://github.com/muchobien
 - University subjects: https://github.com/lokeon-university
