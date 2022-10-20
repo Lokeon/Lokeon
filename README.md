@@ -16,5 +16,4 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=square&logo=docker&logoColor=green&color=111111)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=square&logo=amazon-aws&logoColor=green&color=111111)
 ## &#x1f4c8; GitHub Stats
-[![Stars..](https://github-readme-stats.vercel.app/api/?username=Lokeon&count_private=true&theme=dark&showicons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeon&layout=compact&theme=dark&langs_count=8)](https://github.com/Lokeon/github-readme-stats)
