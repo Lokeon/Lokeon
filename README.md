@@ -1,7 +1,9 @@
 ## About me
-🔭 Looking for something to do. 
+🔭 Looking for becoming a DevOps/Cloud specialist. 
 ## Social Networks
-<a href="https://twitter.com/lokeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krosf_" height="30" width="40" /></a>
+<a href="https://twitter.com/lokeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lokeon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-lopez-cala/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Lokeon" height="30" width="40" /></a>
+
 ## Organizations
 - MuchoBien: https://github.com/muchobien
 - University subjects: https://github.com/lokeon-university
